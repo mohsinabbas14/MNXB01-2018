@@ -58,15 +58,41 @@ the folder
 You must download the data using wget from the website defined mentioned
 at the beginning of this document and in the pseudocode file.
 
-For your convenience, I saved the content of the requested files
-`fortunes` and `fortunes_pp` in the `data` folder, so that you can
-compare what these files should look like after saving them as requested
-in the homework.
+For your convenience, I saved the temporary files folder and its
+content `fortunes` and `fortunes_pp` in the `data` folder, so that you 
+can compare what these files should look like after saving them as 
+requested in the homework.
 
 You can use two nice tools to compare the content of your files with 
 mines: diff (text) and meld (graphical).
 More about those:
   - <https://www.computerhope.com/unix/udiff.htm>
   - <http://meldmerge.org/>
+
+### Get started 
+
+1. Get the pseudocode and example files from my repository in git:  
+```
+   git clone https://github.com/floridop/MNXB01-2018.git
+```
+2. Read the problem specification in this file
+   `./MNXB01-2018/floridop/HW3/README.md`
+
+3. Examine the pseudocode file:
+   `./MNXB01-2018/floridop/HW3/fortuneteller.sh.pseudocode`
+
+4. Rename the file above to `fortuneteller.sh` . 
+5. Complete the pseudocode file with the requested lines of code. 
+6. Test that it does what is requested! The final outputs should look 
+   like the files in the result folder in the github repository:  
+   `./MNXB01-2018/floridop/HW3/result`  
+
+7. Commit the code you created to github following the instructions that
+   will be given in the git tutorial.
+
+8. Send me a link to your fork repository on Live at Lund.
+
+### 
+
 
 Good luck!
