@@ -65,9 +65,10 @@ requested in the homework.
 
 You can use two nice tools to compare the content of your files with 
 mines: diff (text) and meld (graphical).
-More about those:
-  - <https://www.computerhope.com/unix/udiff.htm>
-  - <http://meldmerge.org/>
+More about those:  
+
+   - *diff* - <https://www.computerhope.com/unix/udiff.htm>  
+   - *meld* - <http://meldmerge.org/>  
 
 ### Get started 
 
