@@ -55,8 +55,9 @@ the folder
 
 >  `./result`
 
-You must download the data using wget from the website defined mentioned
-at the beginning of this document and in the pseudocode file.
+In the homework you will be asked to download the data using wget from 
+the website mentioned at the beginning of this document and in the 
+pseudocode file, and put it in a temporary folder.
 
 For your convenience, I saved the temporary files folder and its
 content `fortunes` and `fortunes_pp` in the `data` folder, so that you 
